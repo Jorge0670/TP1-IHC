@@ -18,6 +18,7 @@
 | 10 | **Ajuda e documentação** | O ideal é o sistema ser tão claro que não precise de manual, mas, quando precisar, a ajuda deve ser fácil de achar e objetiva. | Central de ajuda com busca, ou dicas curtas ao lado de campos difíceis. |
 
 ### Processo de inspeção
+O processo de inspeção realizado consistiu em 3 fases de inspeção, sendo elas: Detecção de defeitos, Coleção de defeitos e Discriminação de defeitos. A primeira fase, voltada à análise do sistema escolhido foi baseada identificação de rompimento com as Heurísticas de Nielsen, realizadas de maneira individual, durante um período estabelecido pela equipe, em seguida, foi realizada a fase de Coleção onde após a análise completa do sistema, realizada pelos inspetores, os defeitos identificados foram classificados entre "únicos" e "repetidos". Após a classificação, foi iniciada a fase de Discriminação com os defeitos classificados como "únicos" na fase anterior sendo agrupados em "defeito" e "falso-positivo". Por fim, com a classificação realizada, os defeitos encontrados na fase de Relato de Resultados receberam um determinado grau de severidade e soluções que visassem mitigar os problemas encontrados.
 
 ### Registros da avaliação (exemplo)
 - [Ambiente Notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-d393a5f751ab83208f32814ac196956f?source=copy_link)
