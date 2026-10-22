@@ -4,6 +4,19 @@
 
 ### Heurísticas de Nielsen
 
+| # | Heurística | O que significa, de forma simples | Exemplo |
+|---|---|---|---|
+| 1 | **Visibilidade do status do sistema** | O sistema deve sempre informar o que está acontecendo, com feedback rápido. O usuário nunca deve ficar sem informação. | Barra de progresso em um download, ou o aviso "enviando..." ao mandar uma mensagem. |
+| 2 | **Compatibilidade entre o sistema e o mundo real** | Usar a linguagem e os conceitos que o usuário já conhece, e não termos técnicos internos. | Um ícone de lixeira para apagar arquivos, ou "carrinho de compras" em uma loja online. |
+| 3 | **Controle e liberdade do usuário** | O usuário erra cliques e muda de ideia, então precisa de uma "saída de emergência" fácil. | Botão de desfazer, cancelar ou voltar. |
+| 4 | **Consistência e padrões** | Coisas iguais devem parecer e funcionar de forma igual, dentro do sistema e em relação a outros sistemas. | O botão de salvar sempre no mesmo lugar e com o mesmo ícone, em todas as telas. |
+| 5 | **Prevenção de erros** | É melhor evitar que o erro aconteça do que mostrar uma mensagem depois. | Confirmar antes de excluir uma conta, ou desabilitar o botão "enviar" enquanto o formulário está incompleto. |
+| 6 | **Reconhecer ao invés de relembrar** | O usuário não deve precisar lembrar de informações de uma tela para outra. As opções devem estar visíveis. | Lista de buscas recentes, ou menus com opções à mostra, em vez de comandos que é preciso decorar. |
+| 7 | **Flexibilidade e eficiência de uso** | O sistema deve servir tanto a iniciantes quanto a experientes, com atalhos para quem usa muito. | Atalho Ctrl+C para copiar, além da opção no menu. |
+| 8 | **Design estético e minimalista** | Mostrar só o que é necessário. Cada informação extra disputa a atenção do usuário e atrapalha o que importa. | A página inicial do Google, com um campo de busca em destaque e quase nada além disso. |
+| 9 | **Ajudar o usuário a reconhecer, diagnosticar e corrigir erros** | Mensagens de erro em linguagem clara, dizendo o que deu errado e como resolver, sem códigos misteriosos. | "A senha precisa ter no mínimo 8 caracteres", em vez de "Erro 403". |
+| 10 | **Ajuda e documentação** | O ideal é o sistema ser tão claro que não precise de manual, mas, quando precisar, a ajuda deve ser fácil de achar e objetiva. | Central de ajuda com busca, ou dicas curtas ao lado de campos difíceis. |
+
 ### Processo de inspeção
 
 ### Registros da avaliação (exemplo)
@@ -16,7 +29,7 @@
 - [Tabela de detecção Rhuan Felipe](https://app.notion.com/p/3fc3a5f751ab801d9606f70578acd081?v=68c3a5f751ab820b8211888ed9265258&source=copy_link)
   
 ## Etapa 2 - Coleção
-[Coleção[(https://app.notion.com/p/3fc3a5f751ab80ad92ded4f1895b6e5d?v=71e3a5f751ab82c5aa7308c3a5049d7e&source=copy_link)
+[Coleção](https://app.notion.com/p/3fc3a5f751ab80ad92ded4f1895b6e5d?v=71e3a5f751ab82c5aa7308c3a5049d7e&source=copy_link)
 
 ## Etapa 3 - Discriminação
 [Discriminação](https://app.notion.com/p/3fc3a5f751ab80ffa5fee1a1aa79233a?v=e6c3a5f751ab8307b4c6881dff6e6ff4&source=copy_link)
