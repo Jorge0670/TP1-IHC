@@ -8,11 +8,15 @@ Foram selecionadas as seguintes telas para inspeção:
 [Texto]
 ### Síntese dos problemas encontrados
 Explicar o que a tabela apresenta e discutir os resultados observados.
-| Problema | Nota | Tela/Página | Frequência |
-|------|------|------|------|
-| Ana | 9,5 |
-| João | 8,0 |
+| **Problema** | **Critério WCAG** | **Tela/Página** | **Frequência** |
+|---|---|---|---|
+|   |  |  |  |
+|  |  |  |  |
 ### Critérios WCAG violados
 Explicar o que a tabela apresenta e discutir os resultados observados.
+| **Princípio** | **Diretriz** | **Critério violado** | **Nível** |
+|---|---|---|---|
+|   |  |  |  |
+|  |  |  |  |
 ## Considerações sobre os resultados
 Apresentar uma breve discussão sobre os principais resultados da avaliação
