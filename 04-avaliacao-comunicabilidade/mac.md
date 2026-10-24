@@ -38,8 +38,8 @@ A tabela apresenta cada ruptura de comunicação identificada nos vídeos, com o
 
 [Discutir os resultados observados.]
 
-| Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
-|---|---|---|---|---|---|---|
+| Part. | Tarefa | Tela/Elemento | Timestamp | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
+|---|---|---|---|---|---|---|---|
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
