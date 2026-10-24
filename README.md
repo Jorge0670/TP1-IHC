@@ -70,3 +70,7 @@ A equipe inspecionou [telas selecionadas] do site tendo como referência as dire
 ### 5. Avaliação de comunicabilidade
 
 Foi aplicado o **Método de Avaliação de Comunicabilidade (MAC)** com 2 participantes de perfis diferentes, que não participaram do teste de usabilidade. Cada um assinou o TCLE e executou 10 tarefas ligadas à compreensão das mensagens do site, com tela e áudio gravados. A equipe assistiu aos vídeos e etiquetou cada ruptura de comunicação com expressões como *Cadê?*, *E agora?* e *O que é isto?*, registrando o trecho observado e a interpretação do problema. Por fim, as etiquetas foram contadas e analisadas para identificar quais tarefas e telas concentraram mais rupturas.
+
+## Tecnologias utilizadas
+
+## Observações Gerais
