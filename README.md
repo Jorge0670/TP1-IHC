@@ -12,18 +12,18 @@ O site do Detran-AM (Departamento Estadual de Trânsito do Amazonas) é uma plat
 - [apresentação do sistema](00-detran/apresentacao-do-sistema.md)
 
 ### Avaliação de usabilidade
-- [Inspeção]()
-- [Teste]()
-- [Maze]()
+- [Inspeção](01-avaliacao-de-usabilidade/1-inspecao.md)
+- [Teste](01-avaliacao-de-usabilidade/2-teste.md)
+- [Maze](01-avaliacao-de-usabilidade/3-maze.md)
 
 ### Avaliação UX
-- [Experiência de Uso]()
+- [Experiência de Uso](02-avaliacao-ux/experiencia-de-uso.md)
 
 ### Avaliação de Acessibilidade
-- [Inspeção de Acessibilidade]()
+- [Inspeção de Acessibilidade](03-avaliacao-de-acessibilidade/inspecao-de-acessibilidade.md)
 
 ### Avaliação de comunicabilidade
-- [mac]()
+- [mac](04-avaliacao-comunicabilidade/mac.md)
 
 ## Organização do repositório
 
