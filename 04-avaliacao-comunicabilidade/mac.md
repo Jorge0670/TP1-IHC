@@ -54,9 +54,15 @@ A tabela apresenta quantas vezes cada etiqueta foi atribuída a cada participant
 | Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
 |---|---|---|---|---|
 | Cadê? | | | | |
-| Onde estou? | | | | |
 | E agora? | | | | |
 | O que é isto? | | | | |
+| Epa! | | | | |
+| Onde estou? | | | | |
 | Assim não dá | | | | |
+| Por que não funciona? | | | | |
+| Ué, o que houve? | | | | |
+| Pra mim está bom... | | | | |
+| Desisto! | | | | |
 | Vai de outro jeito | | | | |
+| Não, obrigado | | | | |
 | Socorro! | | | | |
