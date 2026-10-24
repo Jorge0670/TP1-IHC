@@ -53,7 +53,7 @@ O público é amplo e diverso. Em geral, são pessoas **leigas em procedimentos 
 | **Início de processos** | Botão *Iniciar Processo* nas páginas de serviço | Redireciona para o Detran Digital |
 
 
-![Menu principal do site](imagens/menu-principal.png)
+![Menu principal do site](TelaprincipaldoDetran.png)
 **Página Inicial do site do Detran-AM.**
 
 
