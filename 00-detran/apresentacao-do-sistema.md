@@ -1,13 +1,13 @@
 # Apresentação do Sistema
 
-## Qual sistema será avaliado?
+## Sistema avaliado
 
 O sistema avaliado é o **site institucional do Detran-AM** (Departamento Estadual de Trânsito do Amazonas), disponível em [detran.am.gov.br](https://detran.am.gov.br). O site reúne informações sobre habilitação, veículos e infrações de trânsito e encaminha o cidadão para os serviços online, que ficam em um portal separado, o **Detran Digital**. Algumas consultas, como a de protocolo (**sproweb**), também ficam em outros endereços.
 
 ![Página inicial do site do Detran-AM](TelaprincipalDetran.png)
 *Figura 1 — Página inicial do site do Detran-AM.*
 
-## Qual é o domínio do sistema?
+## Domínio do sistema
 
 | Característica | Descrição |
 |---|---|
@@ -16,7 +16,7 @@ O sistema avaliado é o **site institucional do Detran-AM** (Departamento Estadu
 | **Tipo de organização** | Órgão do governo do Estado do Amazonas |
 | **Tipo de sistema** | Site institucional com acesso a serviços online |
 
-## Qual é a finalidade do sistema?
+## Finalidade do sistema
 
 O site é o principal canal de informação e de acesso aos serviços do Detran-AM. Ele permite que o cidadão:
 
@@ -28,7 +28,7 @@ O site é o principal canal de informação e de acesso aos serviços do Detran-
 
 Para o órgão, o site divulga seus serviços, reduz a demanda presencial e orienta o cidadão antes de ele procurar um posto de atendimento.
 
-## Quem são os principais usuários do sistema?
+## Principais usuários do sistema
 
 | Perfil | Necessidades principais |
 |---|---|
@@ -39,7 +39,7 @@ Para o órgão, o site divulga seus serviços, reduz a demanda presencial e orie
 
 O público é amplo e diverso. Em geral, são pessoas **leigas em procedimentos administrativos** que usam o site **de forma esporádica**, apenas quando precisam resolver uma pendência. Por isso, o site precisa ser compreensível sem conhecimento prévio da estrutura do órgão nem de termos técnicos do trânsito.
 
-## Quais são as principais funcionalidades do sistema?
+## Principais funcionalidades do sistema
 
 | Funcionalidade | Localização | Descrição |
 |---|---|---|
@@ -56,6 +56,8 @@ O público é amplo e diverso. Em geral, são pessoas **leigas em procedimentos 
 | **Pesquisa de Satisfação** | Menu principal | Pesquisa para o cidadão avaliar o atendimento, vinculada à Ouvidoria do Detran-AM [confirmar conteúdo] |
 | **Credenciamento para Desmonte** | Menu principal | Informações sobre o credenciamento de empresas para desmonte de veículos [confirmar conteúdo] |
 
+## Escopo da avaliação
 ## Qual será o escopo da avaliação?
 
+A avaliação considera o site institucional do Detran-AM (detran.am.gov.br) como um todo, abrangendo sua navegação, a organização das informações, os serviços oferecidos e os recursos de apoio ao usuário. Também foi analisada a relação do site com o Portal de Serviços (Detran Digital), observando como o usuário é encaminhado a esse ambiente e como retorna ao site institucional.
 
