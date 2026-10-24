@@ -4,7 +4,7 @@
 
 O sistema avaliado é o **site institucional do Detran-AM** (Departamento Estadual de Trânsito do Amazonas), disponível em [detran.am.gov.br](https://detran.am.gov.br). O site reúne informações sobre habilitação, veículos e infrações de trânsito e encaminha o cidadão para os serviços online, que ficam em um portal separado, o **Detran Digital**. Algumas consultas, como a de protocolo (**sproweb**), também ficam em outros endereços.
 
-![Página inicial do site do Detran-AM](imagens/pagina-inicial.png)
+![Página inicial do site do Detran-AM](TelaprincipalDetran.png)
 *Figura 1 — Página inicial do site do Detran-AM.*
 
 ## Qual é o domínio do sistema?
@@ -43,19 +43,18 @@ O público é amplo e diverso. Em geral, são pessoas **leigas em procedimentos 
 
 | Funcionalidade | Localização | Descrição |
 |---|---|---|
-| **Postos de atendimento** | Menu principal | Lista os locais de atendimento presencial |
-| **Habilitação** | Menu *Habilitação* | Informações sobre a CNH, incluindo a *Renovação de CNH* |
-| **Veículos** | Menu *Veículos* | Informações sobre veículos, incluindo o *Licenciamento Anual (CRLV-e)* |
-| **Infrações** | Menu *Infrações* | Informações sobre infrações, incluindo a *Consulta de Multas* |
-| **Consulta de protocolo** | Menu principal | Leva a outro site (sproweb) para acompanhar pedidos |
-| **Portal de serviços (Detran Digital)** | Banner da página inicial | Concentra os serviços online |
-| **Agendamento de atendimento** | A partir de *Renovação de CNH* e do Detran Digital | Leva ao *Agendamento de Habilitação e Veículo* |
-| **Início de processos** | Botão *Iniciar Processo* nas páginas de serviço | Redireciona para o Detran Digital |
-
-
-![Menu principal do site](TelaprincipaldoDetran.png)
-**Página Inicial do site do Detran-AM.**
-
+| **Controle interno** | Menu principal | Informações sobre o controle interno do órgão [confirmar conteúdo] |
+| **Ouvidoria** | Menu principal | Canal para o cidadão registrar manifestações, como reclamações, sugestões e elogios [confirmar conteúdo] |
+| **Habilitação** | Menu principal | Informações sobre a CNH, incluindo a *Renovação de CNH* e o acesso ao agendamento de atendimento |
+| **Veículos** | Menu principal | Informações sobre veículos, incluindo o *Licenciamento Anual (CRLV-e)* |
+| **Infrações** | Menu principal | Informações sobre infrações, incluindo a *Consulta de Multas* |
+| **Acesso à informação** | Menu principal | Informações públicas do órgão, organizadas em submenu [confirmar os itens do submenu] |
+| **Portal do Servidor** | Menu principal | Acesso destinado aos servidores do órgão [confirmar conteúdo] |
+| **Portal de Serviços | Menu principal | Leva ao portal Detran Digital, onde ficam os serviços online |
+| **Carta de Serviços** | Menu principal | Apresenta os serviços oferecidos pelo órgão ao cidadão [confirmar conteúdo] |
+| **Leilões Detran** | Menu principal | Informações sobre os leilões de veículos realizados pelo órgão [confirmar conteúdo] |
+| **Pesquisa de Satisfação** | Menu principal | Pesquisa para o cidadão avaliar o atendimento, vinculada à Ouvidoria do Detran-AM [confirmar conteúdo] |
+| **Credenciamento para Desmonte** | Menu principal | Informações sobre o credenciamento de empresas para desmonte de veículos [confirmar conteúdo] |
 
 ## Qual será o escopo da avaliação?
 
