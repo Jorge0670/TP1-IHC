@@ -26,8 +26,8 @@ Foram aplicadas 10 tarefas, que dependem das mensagens do site (menus, rótulos,
 
 ## Registro das sessões
 
-- [Vídeo do participante U1]([link])
-- [Vídeo do participante U2]([link])
+- [Vídeo do participante U1](https://youtu.be/tNXeTJGW5JA)
+- [Vídeo do participante U2](https://youtu.be/aHg5azB5h6E)
 
 ## Etiquetagem das rupturas
 
