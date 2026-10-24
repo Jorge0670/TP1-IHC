@@ -14,16 +14,16 @@ Foram aplicadas 10 tarefas, que dependem das mensagens do site (menus, rótulos,
 
 | Tarefa | Caminho esperado | Critério de sucesso |
 |---|---|---|
-| **T1** — Ir aos postos de atendimento | Página inicial > menu *Postos de atendimento* | Chega à lista de postos | Cadê? / Onde estou? |
-| **T2** — Ir à página de renovação da CNH | Página inicial > menu *Habilitação* > *Renovação de CNH* | Chegar à página com etapas e documentos |
-| **T3** — Ir à página do licenciamento anual | Página inicial > menu *Veículos* > *Licenciamento Anual (CRLV-e)* | Chegar à página do licenciamento |
-| **T4** — Ir à página de consulta de multas | Página inicial > menu *Infrações* > *Consulta de Multas* | Chegar à página da consulta de multas |
-| **T5** — Ir à consulta de protocolo | Página inicial > menu *Consulta prolocolo* (escrito assim no site) > abre outro site (sproweb) | Chegar à tela de consulta. Depois perguntar: "Você percebeu que mudou de site?" |
-| **T6** — Entrar no portal de serviços online | Página inicial > banner *Portal de serviços (Detran Digital)* | Chegar à página inicial do Detran Digital |
-| **T7** — Chegar à tela de agendamento | *Habilitação* > *Renovação de CNH* > *Agendar Atendimento* > no Detran Digital, *Agendamento de Habilitação e Veículo* | Chegar à tela de agendamento |
-| **T8** — Chegar à tela de consulta de multas | *Infrações* > *Consulta de Multas* > *Iniciar Processo* > no Detran Digital, seção *Multas* > *Consulta de Multas e Veículos* | Chegar à tela com os campos de placa e Renavam |
-| **T9** — Chegar à tela do licenciamento | *Veículos* > *Licenciamento Anual (CRLV-e)* > *Iniciar Processo* > no Detran Digital, *Licenciamento Anual* | Chegar à tela de consulta do veículo |
-| **T10** — Voltar do portal para o site do Detran | Detran Digital > link *Retornar ao portal* ou *Site do Detran AM* (nome exato: [confirmar]) | Volta à página inicial do site do Detran |
+| **T1** — Ir aos postos de atendimento | Página inicial > menu *Postos de atendimento* (ou *Sobre Serviço* > *Postos de atendimento*) | Chega à lista ou ao mapa de postos de atendimento |
+| **T2** — Ir à página de renovação da CNH | Página inicial > menu *Habilitação* > *Renovação de CNH* | Chega à página com orientações, etapas e documentos exigidos |
+| **T3** — Ir à página de consulta de multas | Página inicial > menu *Infrações* > *Consulta de Multas* | Chega à página de consulta de infrações do veículo |
+| **T4** — Entrar no portal de serviços online | Página inicial > banner ou botão *Portal de Serviços* (ou *Agendamento* / *Detran Digital*) | Chega à tela principal do Portal de Serviços do Detran-AM |
+| **T5** — Voltar do portal para o site do Detran | Portal de Serviços > link ou logotipo *Voltar para o site do Detran-AM* (ou *Ir para o Portal Institucional*) | Volta à página inicial do site institucional do Detran-AM |
+| **T6** — Aumentar o tamanho do texto do site | Página inicial > barra superior de acessibilidade > botão *Aumentar texto* (ícone *A+*) | As fontes do site aumentam de tamanho na tela |
+| **T7** — Consultar a Carta de Serviços ao Cidadão | Página inicial > menu *A Instituição* (ou atalhos rápidos) > *Carta de Serviços* | Chega à página ou ao PDF da Carta de Serviços ao Cidadão |
+| **T8** — Acessar a Ouvidoria do Detran | Página inicial > menu *Ouvidoria* | Chega à página do canal oficial da Ouvidoria (E-OUV) |
+| **T9** — Chegar à tela do licenciamento do veículo | Página inicial > *Portal de Serviços* > *Veículos* > *Licenciamento Anual (CRLV-e)* | Chega à tela do formulário para inserção de dados ou placa do veículo |
+| **T10** — Localizar o endereço da sede e o horário de atendimento | Página inicial > rolar até o rodapé da página | Visualiza o endereço da sede (Av. Mário Ypiranga) e o horário de atendimento presencial (8h às 14h) |
 
 As etiquetas da última coluna são hipóteses feitas no planejamento. As etiquetas realmente atribuídas estão na seção de etiquetagem.
 
