@@ -73,4 +73,6 @@ Foi aplicado o **Método de Avaliação de Comunicabilidade (MAC)** com 2 partic
 
 ## Tecnologias utilizadas
 
+Para o desenvolvimento do projeto de IHC (Interação Humano-Computador) sobre o site do Detran-AM, foram utilizadas diferentes ferramentas para auxiliar na execução e organização do trabalho. O *Maze* foi utilizado para elaborar o questionário de caracterização dos participantes, enquanto o *Google Planilhas* serviu para organizar os dados coletados. O *ATLAS.ti* foi utilizado para auxiliar na análise dos dados do teste de UX (Experiência do Usuário). Já as ferramentas de inteligência artificial *ChatGPT (GPT)* e *Claude* foram utilizadas como apoio à organização das informações e à estruturação do repositório do projeto no GitHub.
+
 ## Observações Gerais
