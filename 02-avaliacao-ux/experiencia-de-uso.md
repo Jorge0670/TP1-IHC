@@ -28,7 +28,7 @@ Nenhuma dimensão ultrapassou o limite de +0,8, utilizado como referência para 
 
 ### 3.1 Gráfico 1 — Médias das seis dimensões
 
-![Resultado geral do UEQ](imagens/media_dimensoes.png)
+<img src="imagens/media_dimensoes.png" width="600">
 
 O gráfico apresenta as médias obtidas nas seis dimensões avaliadas. A Atratividade se destacou com a maior pontuação, sugerindo uma percepção relativamente mais favorável dos aspectos gerais da experiência. Em contrapartida, Novidade apresentou a menor média.
 
@@ -36,7 +36,7 @@ Apesar dessas diferenças, todas as dimensões permaneceram na faixa de avaliaç
 
 ### 3.2 Gráfico 2 — Comparação entre as dimensões
 
-![Comparação entre as dimensões do UEQ](imagens/comparativo_respostas.png)
+<img src="imagens/comparativo_respostas.png" width="1000">
 
 A comparação entre as dimensões permite observar diferenças na percepção dos participantes. Atratividade apresentou o resultado mais elevado, seguida por Perspicuidade e Eficiência. Confiabilidade ficou próxima de zero, enquanto Novidade apresentou uma média ligeiramente negativa.
 
