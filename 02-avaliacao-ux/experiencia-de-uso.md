@@ -1,17 +1,47 @@
+
 # Avaliação de Experiência do Usuário
+
 ## 1. Aplicação do UEQ
-[Descrever o método utilizado e como ele pode ser aplicado numa avaliação de UX]
+
+O User Experience Questionnaire (UEQ) foi utilizado para avaliar a experiência dos usuários durante a utilização do sistema. O questionário analisa 26 itens organizados em seis dimensões: Atratividade, Perspicuidade, Eficiência, Confiabilidade, Estimulação e Novidade.
+
+A avaliação considerou as respostas de oito participantes. Os dados foram organizados na planilha oficial de análise do UEQ, que permite calcular as médias de cada dimensão e comparar os resultados.
+
 ## 2. Resultados gerais
-Apresentar os resultados das seis dimensões do UEQ:
+
+A tabela apresenta as médias das seis dimensões do UEQ, calculadas na escala padrão de -3 a +3.
+
+| Dimensão | Média |
+|---|---:|
+| Atratividade | 0,75 |
+| Perspicuidade | 0,38 |
+| Eficiência | 0,38 |
+| Confiabilidade | 0,16 |
+| Estimulação | 0,34 |
+| Novidade | -0,03 |
+
+Os resultados indicam uma avaliação predominantemente neutra da experiência de uso. A Atratividade apresentou a maior média (0,75), enquanto Novidade obteve o menor resultado (-0,03).
+
+Nenhuma dimensão ultrapassou o limite de +0,8, utilizado como referência para uma avaliação positiva, nem ficou abaixo de -0,8, que indica uma avaliação negativa.
+
+## 3. Análise quantitativa
+
+### 3.1 Gráfico 1 — Médias das seis dimensões
+
 ![Resultado geral do UEQ](imagens/ueq-resultados.png)
-*Figura 1 — Resultados gerais das dimensões avaliadas pelo UEQ.*
-## 3. Análise Quantitativa
-### Gráfico 1 — [Nome do gráfico]
-![Gráfico 1](imagens/grafico-01.png)
-Explicar o que o gráfico apresenta e discutir os resultados observados.
-### Gráfico 2 — [Nome do gráfico]
-![Gráfico 2](imagens/grafico-02.png)
-Explicar o que o gráfico apresenta e discutir os resultados observados.
+
+O gráfico apresenta as médias obtidas nas seis dimensões avaliadas. A Atratividade se destacou com a maior pontuação, sugerindo uma percepção relativamente mais favorável dos aspectos gerais da experiência. Em contrapartida, Novidade apresentou a menor média.
+
+Apesar dessas diferenças, todas as dimensões permaneceram na faixa de avaliação neutra. Isso indica que os resultados não demonstram uma percepção claramente positiva ou negativa da experiência de uso.
+
+### 3.2 Gráfico 2 — Comparação entre as dimensões
+
+![Comparação entre as dimensões do UEQ](imagens/grafico-02.png)
+
+A comparação entre as dimensões permite observar diferenças na percepção dos participantes. Atratividade apresentou o resultado mais elevado, seguida por Perspicuidade e Eficiência. Confiabilidade ficou próxima de zero, enquanto Novidade apresentou uma média ligeiramente negativa.
+
+Essas diferenças ajudam a identificar aspectos que merecem investigação em avaliações futuras. Entretanto, como os resultados estão próximos da neutralidade e a amostra é composta por oito participantes, não é possível afirmar que essas diferenças representem a percepção de todos os usuários do sistema.
+
 ## 4. Análise qualitativa
 
 As respostas abertas aplicadas após o teste foram importadas no ATLAS.ti e analisadas pela equipe. A partir da leitura dos comentários, foram criados códigos que representam os aspectos identificados. Em seguida, cada código foi associado a uma ou mais dimensões do UEQ (Atratividade, Perspicuidade, Eficiência, Confiabilidade, Estimulação e Novidade). O objetivo é verificar como os comentários dos participantes explicam ou complementam os resultados quantitativos.
