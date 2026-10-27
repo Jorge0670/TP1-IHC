@@ -65,35 +65,35 @@ Os resultados foram classificados da seguinte maneira:
 
 ### Evidências
 
-![Participante P01 realizando o teste de usabilidade](imagens/teste-p01.png)
+![Participante P01 realizando o teste de usabilidade](imagens/teste-p01.jpeg)
 
 *Figura 1 — Participante P01 durante a realização do teste de usabilidade.*
 
-![Participante P02 realizando o teste de usabilidade](imagens/teste-p02.png)
+![Participante P02 realizando o teste de usabilidade](imagens/teste-p02.jpeg)
 
 *Figura 2 — Participante P02 durante a realização do teste de usabilidade.*
 
-![Participante P03 realizando o teste de usabilidade](imagens/teste-p03.png)
+![Participante P03 realizando o teste de usabilidade](imagens/teste-p03.jpeg)
 
 *Figura 3 — Participante P03 durante a realização do teste de usabilidade.*
 
-![Participante P04 realizando o teste de usabilidade](imagens/teste-p04.png)
+![Participante P04 realizando o teste de usabilidade](imagens/teste-p04.jpeg)
 
 *Figura 4 — Participante P04 durante a realização do teste de usabilidade.*
 
-![Participante P05 realizando o teste de usabilidade](imagens/teste-p05.png)
+![Participante P05 realizando o teste de usabilidade](imagens/teste-p05.jpeg)
 
 *Figura 5 — Participante P05 durante a realização do teste de usabilidade.*
 
-![Participante P06 realizando o teste de usabilidade](imagens/teste-p06.png)
+![Participante P06 realizando o teste de usabilidade](imagens/teste-p06.jpeg)
 
 *Figura 6 — Participante P06 durante a realização do teste de usabilidade.*
 
-![Participante P07 realizando o teste de usabilidade](imagens/teste-p07.png)
+![Participante P07 realizando o teste de usabilidade](imagens/teste-p07.jpeg)
 
 *Figura 7 — Participante P07 durante a realização do teste de usabilidade.*
 
-![Participante P08 realizando o teste de usabilidade](imagens/teste-p08.png)
+![Participante P08 realizando o teste de usabilidade](imagens/teste-p08.jpeg)
 
 *Figura 8 — Participante P08 durante a realização do teste de usabilidade.*
 
