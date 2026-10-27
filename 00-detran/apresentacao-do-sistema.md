@@ -5,7 +5,7 @@
 O sistema avaliado é o **site institucional do Detran-AM** (Departamento Estadual de Trânsito do Amazonas), disponível em [detran.am.gov.br](https://detran.am.gov.br). O site reúne informações sobre habilitação, veículos e infrações de trânsito e encaminha o cidadão para os serviços online, que ficam em um portal separado, o **Detran Digital**. Algumas consultas, como a de protocolo (**sproweb**), também ficam em outros endereços.
 
 ![Página inicial do site do Detran-AM](TelaprincipalDetran.png)
-*Figura 1 — Página inicial do site do Detran-AM.*
+*Página inicial do site do Detran-AM.*
 
 ## Domínio do sistema
 
