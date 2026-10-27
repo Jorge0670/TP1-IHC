@@ -127,7 +127,7 @@ As figuras a seguir mostram a origem de cada código no projeto.
 
 
 
-![Documentos importados](imagens/atlas-01-documentos.png)
+![Documentos importados](02-avaliacao-de-usabilidade/imagens/documentos.png)
 
 
 
@@ -135,7 +135,7 @@ Figura 2 — Respostas dos oito participantes importadas como documentos no ATLA
 
 
 
-![Citação codificada](imagens/atlas-02-citacao-codificada.png)
+![Citação codificada](02-avaliacao-de-usabilidade/imagens/codigosAtlas.png)
 
 
 
