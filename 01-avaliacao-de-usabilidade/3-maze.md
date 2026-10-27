@@ -1,1 +1,2 @@
-
+# Maze
+O Maze foi utilizado para elaborar e disponibilizar o questionário de caracterização dos participantes do projeto de IHC sobre o site do Detran-AM. O questionário teve como objetivo coletar informações sobre o perfil dos participantes, permitindo conhecer melhor suas características e contextualizar os resultados obtidos durante a pesquisa. A ferramenta facilitou a distribuição das perguntas e a coleta das respostas, contribuindo para a organização das informações utilizadas no projeto.
