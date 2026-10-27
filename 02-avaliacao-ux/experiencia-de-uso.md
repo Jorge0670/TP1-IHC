@@ -238,51 +238,51 @@ Foi criada uma rede para cada dimensão do UEQ. Em cada rede, o nó central é a
 
 
 
-![Rede Atratividade](imagens/rede-atratividade.png)
+![Rede Atratividade](imagens/atratividade.png)
 
 
 
-Figura 6 — Rede da dimensão Atratividade.
+Rede da dimensão Atratividade.
 
 
 
-![Rede Perspicuidade](imagens/rede-perspicuidade.png)
+![Rede Perspicuidade](imagens/perspicuidade.png)
 
 
 
-Figura 7 — Rede da dimensão Perspicuidade.
+Rede da dimensão Perspicuidade.
 
 
 
-![Rede Eficiência](imagens/rede-eficiencia.png)
+![Rede Eficiência](imagens/eficiencia.png)
 
 
 
-Figura 8 — Rede da dimensão Eficiência.
+Rede da dimensão Eficiência.
 
 
 
-![Rede Confiabilidade](imagens/rede-confiabilidade.png)
+![Rede Confiabilidade](imagens/confiabilidade.png)
 
 
 
-Figura 9 — Rede da dimensão Confiabilidade.
+Rede da dimensão Confiabilidade.
 
 
 
-![Rede Estimulação](imagens/rede-estimulacao.png)
+![Rede Estimulação](imagens/estimulacao.png)
 
 
 
-Figura 10 — Rede da dimensão Estimulação.
+Rede da dimensão Estimulação.
 
 
 
-![Rede Novidade](imagens/rede-novidade.png)
+![Rede Novidade](imagens/novidade.png)
 
 
 
-Figura 11 — Rede da dimensão Novidade.
+Rede da dimensão Novidade.
 
 *Leitura das redes*
 - *Atratividade:* a impressão geral é negativa ou mista. Dois participantes avaliaram o site de forma negativa, quatro de forma regular e dois de forma positiva.
