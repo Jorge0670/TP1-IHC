@@ -127,7 +127,7 @@ As figuras a seguir mostram a origem de cada código no projeto.
 
 
 
-![Documentos importados](02-avaliacao-de-ux/imagens/documentos.png)
+![Documentos importados](02-avaliacao-ux/imagens/documentos.png)
 
 
 
@@ -135,16 +135,7 @@ Figura 2 — Respostas dos oito participantes importadas como documentos no ATLA
 
 
 
-![Citação codificada](02-avaliacao-de-ux/imagens/codigosAtlas.png)
-
-
-
-Figura 3 — Citação de R1 (Q4) associada a mais de um código.
-
-
-
-![Citações de um código](imagens/atlas-03-citacoes-por-codigo.png)
-
+![Citação codificada](02-avaliacao-ux/imagens/codigosAtlas.png)
 
 
 Figura 4 — Citações associadas ao código P7 (Dificuldade para localizar informações e funções), com origem em seis participantes.
