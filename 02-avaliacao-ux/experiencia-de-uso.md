@@ -131,14 +131,14 @@ As figuras a seguir mostram a origem de cada código no projeto.
 
 
 
-Figura 2 — Respostas dos oito participantes importadas como documentos no ATLAS.ti.
+Respostas dos oito participantes importadas como documentos no ATLAS.ti.
 
 
 
 <img src="imagens/codigosAtlas.png" width="600">
 
 
-Figura 4 — Citações associadas ao código P7 (Dificuldade para localizar informações e funções), com origem em seis participantes.
+Citações associadas ao código P7 (Dificuldade para localizar informações e funções), com origem em seis participantes.
 
 ### 4.3 Códigos identificados
 
@@ -146,11 +146,7 @@ Foram criados 35 códigos. A coluna de participantes indica em quantos dos oito 
 
 
 
-![Gerenciador de códigos](imagens/atlas-04-codigos.png)
-
-
-
-Figura 5 — Códigos criados no ATLAS.ti, com a frequência de citações.
+Códigos criados no ATLAS.ti, com a frequência de citações.
 
 #### Atratividade
 
